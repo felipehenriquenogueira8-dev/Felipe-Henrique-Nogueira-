@@ -1,0 +1,6 @@
+{
+  "name": "VeloVideo",
+  "description": "Gerador de vídeos por IA rápido, com consistência de personagens, edição de referência e créditos diários gratuitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
